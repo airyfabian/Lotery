@@ -1,0 +1,11 @@
+com\personal\solution\lotery\model\data\DataPerNumber.class
+com\personal\solution\lotery\utils\Constant.class
+com\personal\solution\lotery\App.class
+com\personal\solution\lotery\business\ReadFileCsvType.class
+com\personal\solution\lotery\model\data\Raffle.class
+com\personal\solution\lotery\utils\Utils.class
+com\personal\solution\lotery\business\AnalysisOfDataMesImpl.class
+com\personal\solution\lotery\business\ReadAndCreateRaffle.class
+com\personal\solution\lotery\business\AnalysisOfDataYearImpl.class
+com\personal\solution\lotery\model\data\RaffleNumber.class
+com\personal\solution\lotery\business\AnalysisOfDataInterface.class
